@@ -19,8 +19,18 @@ console.log("olá meu nome", nome, "minha idade é", idade)
  const sim = true
  const não = false
 
- let pergunta = sim
+ let pergunta = prompt("Você está usando uma roupa azul hoje?");true
+ let pergunta1 = prompt("você está cansado hoje?"); true
+ let pergunta2 = prompt("você está triste?"); false
+ let pergunta3 = prompt("você não gosta de tecnologia?"); false
 
+ console.log("você está usando uma roupa azul hoje?", sim, "você está cansado hoje?", sim, 
+ "você está triste?", não, "você não gosta de tecnologia?", sim) 
  
+let a = 10;
+let b = 25;
+let c = a
+a = b
+b = c
 
-
+console.log(a, b)
