@@ -1,0 +1,56 @@
+           Sete passos para resolver os problemas na programação
+
+Os 7 passos fundamentais são:
+1- Ter atenção no enunciado
+2- Retirar informações relevantes
+3- Pensar entradas e saídas
+4- Fazer um esquema visual
+5- Criar código feio
+6- Testar força-bruta
+7- Refatorar
+
+1- Ter atenção no enunciado
+
+É importante prestar atenção para absorver as informações fundamentais que farão
+a diferença na hora de fazer o código e perguntar o que o código irá fazer. E caso
+tenha alguma informação ou palavra que não tenha entendido, pesquisar.
+
+2- Retirar informações relevantes
+
+Retirar do texto as informações mais importantes. Aquelas palavras que serão chave
+no nome das variáveis, das funções ou parâmetros. Analisar o que a gente pode
+transformar em valores no nosso código. E também verificar as condições.
+
+
+3- Pensar entradas e saídas
+
+Nesse passo a gente vai tentar criar uma expectativa do programa que será desenvolvido. 
+Pensar em como e quais serão os dados recebidos, ver o que faz sentido, quais devem
+ser as possíveis respostas(formato) do código. E assim criar uma função com essas
+entradas e saídas.
+
+4- Fazer um esquema visual
+
+Nesse exemplo devemos criar exemplos. Podemos desenhar diagramas ou fluxogramas 
+com a lógica do código pra podermos entender melhor o raciocínio.
+Pensar nos possíveis cenários e colocar entradas e saídas.
+
+5- Criar código feio
+
+Apesar do nome esse passo também é muito importante! É um código que começa a ser
+montado e que ainda não está preocupado com performance. É uma forma da gente pensar
+em todas as soluções possíveis para o nosso código. Até obtermos uma resposta satisfatória
+do que está sendo pedido no enunciado.
+
+6- Testar força-bruta
+
+Solução ainda pouco performática. Onde estamos testando uma solução óbvia.
+Podemos escrever o programa no nosso idioma para facilitar e devemos transcrever
+para à linguagem de programação que acharmos mais adequada.
+
+7- Refatorar
+
+Uma vez funcionando a lógica aí sim, nesse passo podemos nos preocupar com performance.
+Devemos ajustar a código, torná-lo mais legível. Devemos dar bons nomes as varíaveis
+e funções. Separar as funções de cada elemento. E se for pedido ou necessário colocar em 
+outro idioma, como o inglês por exemplo.
