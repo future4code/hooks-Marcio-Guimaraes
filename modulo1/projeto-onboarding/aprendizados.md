@@ -1,0 +1,2 @@
+                  #  Aprendizados da Semana
+    Nessa semana de onboarding da **Labenu**, aprendi a mexer no terminal (foi difícil e desafiador pakas! Até ajudei a desvendar um crime de assassinato. kkkkkk) , no VSCode e me estressar com o GIT (até que não foi tanto coitado. kkkkk).
