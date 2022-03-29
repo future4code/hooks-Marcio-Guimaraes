@@ -1,0 +1,20 @@
+h1 {
+    background-color: gold;
+}
+
+p {
+    background-color: blue; 
+    color: white;
+}
+
+.inline {
+    display: inline;
+}
+
+h2 {
+    background-color: rgb(190, 16, 16);
+}
+
+body {
+    background-color:wheat
+}
