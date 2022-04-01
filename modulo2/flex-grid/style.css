@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: mediumvioletred;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+img {
+    width: 18px;
+   
+    
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#container {
+    background-color:#f2d0e0;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+    position: relative;
+    top: 0;
+    background-color: mediumvioletred;
+    color :black;
+}
+section {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+ .bolo1{ 
+     width: 180px
+
+ }
+
+
+ 
+
+
