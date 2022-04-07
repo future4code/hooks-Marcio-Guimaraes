@@ -1,0 +1,45 @@
+header{
+    background-color: orange;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    height:60px;
+    padding: 0 60px;
+
+}
+
+input{
+    height:20px;
+    width: 120px
+}
+
+footer {
+    background-color:dimgray;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font: size 500%;
+    position:absolute;
+    bottom: 0;
+    width:100%;
+}
+
+div {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+    padding: 10px;
+    margin-top: 140px;
+
+}
+
+video {
+    width: 300px
+}
+
+.videoDetalhado {
+    width: 600px;
+}
