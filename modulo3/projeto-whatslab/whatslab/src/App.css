@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+ 
+}
+
+div {
+  width: 450px;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 50%;
+  position: absolute;
+   padding-top: 350px;
+  }
