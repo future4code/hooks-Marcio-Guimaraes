@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "da5ac7c5-2aed-40f4-a75d-e1d2ad58c5db",
+		"name": "Labefy",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "NovaRequest",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https:minha-requisicao",
+					"host": [
+						"https"
+					],
+					"port": "minha-requisicao"
+				}
+			},
+			"response": []
+		}
+	]
+}
