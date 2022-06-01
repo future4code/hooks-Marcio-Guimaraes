@@ -1,0 +1,119 @@
+*{
+    font-family:sans-serif;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    letter-spacing: 4px;
+}
+
+.logo {
+    width: 280px;
+    height: 280px;
+    opacity: 0.9;
+}
+
+a{
+   text-decoration: none;
+   padding: 20px;
+   font-size: 2rem;
+   font-family: arial;
+}
+
+
+header {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ul{
+    display: flex;
+}
+
+.menu li a {
+    display: flex;
+    padding: 20px;
+    margin-right: 40px;
+    width: 270 px;
+    height: 100px;
+    border: none;
+    color: white;
+    background-color: #99d98c;
+    border-radius: 15px;
+    box-shadow: inset 0000 yellow;
+    transition: ease-out 1;
+    font: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu li a:hover {
+    box-shadow: inset 310px 000 #f8961e;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: table;
+    background: url(imagem1.jpeg);
+    
+    background-position: 30% 45%;
+    background-size:cover;
+    text-align:center;
+    background-attachment: fixed;
+    
+
+}
+
+p {
+    font-size: 35px;
+    font-family: cursive;
+   
+}
+
+section {
+    text-align: center;
+    padding: 100px 0;
+    width: 100%;
+    height: 100vh;
+   line-height:10vh;
+   background-color: white;
+   color:darkcyan
+   
+   
+
+    
+    
+}
+
+main {
+    opacity: 1.5;
+    line-height: 15vh ;
+    background: url(rapido.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+#rodape {
+    width: 100%;
+    background-color: #8499b1;
+    display: flex;
+    justify-content:flex-start;
+    color: white;
+    position:-webkit-sticky;
+    bottom: 0;
+    text-align: center;
+    font-size: 50px;
+}
+
+#rodape img {
+    width: 50px;
+    vertical-align: middle;
+    margin: 15px;
+    
+}
+
