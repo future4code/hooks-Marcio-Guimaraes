@@ -1,6 +1,7 @@
-import { Matches } from "./Matches";
-import { Profile } from "./Profile";
-import "./styles.css";
+
+import { Matches } from "./components/Matches";
+import { Profile } from "./components/Profile";
+
 
 export default function App() {
   return (
