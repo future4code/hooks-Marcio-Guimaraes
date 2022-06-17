@@ -20,7 +20,7 @@ const PaginaMatch  = () => {
         GetProfileToChoose()
     }, [ ])
   
-    showProfile.map()
+   
   return (
     <div>
         <h1>Página Match</h1>
