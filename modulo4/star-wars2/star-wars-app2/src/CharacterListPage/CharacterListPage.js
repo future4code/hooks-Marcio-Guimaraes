@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from "react";
 import axios from "axios";
-import { Base_URL } from "../services/url"
+import { Container } from "./CharacterStyles";
+
 
 export const CharacterListPage = () => {
 
@@ -23,10 +24,10 @@ useEffect (() => {
 }, [])
     return (
         <div>
-            <h1>CharacterListPage</h1>
+            <h1>Personagens</h1>
          {list && list.map((item)=>{
          return (
-         <div>{item.name}</div>
+         <Container>{item.name}</Container>
             )
          })}
         </div>

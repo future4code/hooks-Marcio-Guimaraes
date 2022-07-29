@@ -4,11 +4,12 @@ import {CharacterDetailPage} from "../CharacterDetailPage/CharacterDetailPage"
 
 export const Routers = () => {
 
+    return (
     <BrowserRouter>
-        <Routes>
+         <Routes>
             <Route path="/" element={<CharacterListPage/>}/>
             <Route path="/detalhes/:nome" element={<CharacterDetailPage/>}/>
         </Routes>
     </BrowserRouter>
-
+    )
 }
