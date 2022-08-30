@@ -1,0 +1,12 @@
+CREATE TABLE Labe_BankS (
+id VARCHAR(10),
+nome VARCHAR(64),
+email VARCHAR(60) NOT NULL UNIQUE
+);
+
+
+SELECT * FROM Labe_BankS;
+
+
+
+
