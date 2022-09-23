@@ -1,0 +1,7 @@
+CREATE TABLE labecommerce_users (
+id VARCHAR (30) PRIMARY KEY,
+name VARCHAR (30) NOT NULL,
+email VARCHAR (30) NOT NULL,
+password VARCHAR (30) NOT NULL
+
+) ;
